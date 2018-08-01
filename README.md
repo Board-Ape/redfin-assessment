@@ -9,6 +9,9 @@
 
 ○ How to run your program, with example commands on how to  run it if necessary.
 
+// Be sure to navigate to the correct folder:
+// $ cd FoodTrucks
+
 // Produce first ten results CLI:
 // $ node main.js
 
